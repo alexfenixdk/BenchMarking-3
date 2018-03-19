@@ -123,7 +123,7 @@ Es un método para ayudar en la planificación y desarrollo de productos, servic
 |Batería             |`3.300 mAh`|
 
 
-### Cuadro Comparativo De Fotos Tomadas Con Diferentes Marcas De Smartphones
+### Cuadro Comparativo De Fotos Tomadas Con Diferentes Tipos De Smartphones
 |**Marca y Modelo**|**Sin Flash Con Luz**|**Sin Flash Sin Luz**|**Flash con luz**|**Flash Sin Luz**| 
 |--------|--------|---------|-------|-------|
 |**Motorola G4 Play**| ![]( https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29365968_10211573549763373_2663051316053409792_n.jpg?oh=39e060b919e5bcc556ae938c279f0de7&oe=5B285473)| ![](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29432561_10211573584284236_868339582914002944_n.jpg?_nc_cat=0&oh=a6ccf8b2154fe4f193aa0d48013cb9ce&oe=5B4B68CA) | ![](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29426005_10211573574083981_9180481724637773824_n.jpg?oh=23a396976f8e4100e01f4c55c8e4e361&oe=5B2B9508) |![](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29365439_10211573593084456_7968715633317642240_n.jpg?oh=ad8fe6e487d2407dfd64ce6695f23890&oe=5B3A29DB)|
