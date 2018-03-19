@@ -6,7 +6,7 @@
 >**En el año 1979**
 >Aparece, por primera vez,el término Benchmarking competitivo, cuando la empresa Xerox comienza a cuestionarse su modelo de gestión, debido a que vendía sus productos y servicios por debajo de sus costos de producción; este acontecimiento marcó la pauta para el desarrollo del benchmarking.
 >
->####Definiciones por diferentes autores:
+>#### Definiciones por diferentes autores:
 >
 >**Según Spendolini**
 Se considera como un proceso sistemático y continuo para evaluar los productos, servicios y procesos de trabajo de las organización que se reconocen como representantes de las mejores prácticas, con el propósito de realizar mejoras organizacionales.1 Esta definición está enfocada al ámbito empresarial.
@@ -123,10 +123,10 @@ Es un método para ayudar en la planificación y desarrollo de productos, servic
 |Batería             |`3.300 mAh`|
 
 
-###Cuadro Comparativo De Fotos Tomadas Con Diferentes Marcas De Smartphones
-| ***Marca y Modelo***      |***Sin Flash Con Luz***       |***Sin Flash Sin Luz***   | ***Flash con luz***   |***Flash Sin Luz***  | 
-|----|----|--| -----|----|
-|**Motorola G4 Play**      | ![]( https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29365968_10211573549763373_2663051316053409792_n.jpg?oh=39e060b919e5bcc556ae938c279f0de7&oe=5B285473)| ![](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29432561_10211573584284236_868339582914002944_n.jpg?_nc_cat=0&oh=a6ccf8b2154fe4f193aa0d48013cb9ce&oe=5B4B68CA) | ![](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29426005_10211573574083981_9180481724637773824_n.jpg?oh=23a396976f8e4100e01f4c55c8e4e361&oe=5B2B9508) |![](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29365439_10211573593084456_7968715633317642240_n.jpg?oh=ad8fe6e487d2407dfd64ce6695f23890&oe=5B3A29DB)|
+### Cuadro Comparativo De Fotos Tomadas Con Diferentes Marcas De Smartphones
+|**Marca y Modelo**|**Sin Flash Con Luz**|**Sin Flash Sin Luz**|**Flash con luz**|**Flash Sin Luz**| 
+|--------|--------|---------|-------|-------|
+|**Motorola G4 Play**| ![]( https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29365968_10211573549763373_2663051316053409792_n.jpg?oh=39e060b919e5bcc556ae938c279f0de7&oe=5B285473)| ![](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29432561_10211573584284236_868339582914002944_n.jpg?_nc_cat=0&oh=a6ccf8b2154fe4f193aa0d48013cb9ce&oe=5B4B68CA) | ![](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29426005_10211573574083981_9180481724637773824_n.jpg?oh=23a396976f8e4100e01f4c55c8e4e361&oe=5B2B9508) |![](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29365439_10211573593084456_7968715633317642240_n.jpg?oh=ad8fe6e487d2407dfd64ce6695f23890&oe=5B3A29DB)|
 |**Alcatel Pixi 4**|![](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29365439_10211573593084456_7968715633317642240_n.jpg?_nc_cat=0&oh=ad8fe6e487d2407dfd64ce6695f23890&oe=5B3A29DB) |![](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29386703_10211573674526492_5661037590736797696_n.jpg?oh=a382875066ba5d52315c56f7aeb29d6e&oe=5B34F3F3)|![](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29365732_10211573664966253_7261230199205789696_n.jpg?_nc_cat=0&oh=45580b3300d710b452daf7210ec13e83&oe=5B2B3FD1)|![](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29356247_10211573680086631_4509735705412370432_n.jpg?oh=da6a98e81573c535d2e565e6ff195d98&oe=5B4352D1)|
 |**Motorola Moto G5**|![](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29365982_10211573690046880_4204597889852243968_n.jpg?_nc_cat=0&oh=053a8cf4c6bea65595a8d4311505884a&oe=5B4B11F7)|![](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29387150_10211573704087231_5032846822096240640_n.jpg?oh=7221a25d07b28599a3267e8e74f3cf14&oe=5B4D7727)|![](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29365818_10211573696087031_6868828062759256064_n.jpg?oh=92a1076a2c3a670f61ebf048a750d97e&oe=5B439B66)|![](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29425310_10211573714127482_6698920548098899968_n.jpg?oh=7b19223b4cc0aec95208bd70d7af01b2&oe=5B384C5B)|
 |**Lenovo K5**|![](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29343165_10211573745008254_3454585961613099008_n.jpg?oh=1df5223a5fc988adee6946bd83699efb&oe=5B3FBD40)|![](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29249356_10211554167998841_4307154029479198720_n.jpg?_nc_cat=0&oh=70f22d55f17c96b86974ef72959257e1&oe=5B4AC281)|![](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29244489_10211554193559480_5055688480378585088_n.jpg?oh=bcf9e92992567d3ba18899c586df2ed0&oe=5B32251C)|![](https://scontent.fpbc2-1.fna.fbcdn.net/v/t1.0-9/29365633_10211573770288886_7359844095725928448_n.jpg?oh=864f3ef88606454e6776acffaeff6b7d&oe=5B42E9D0)|
